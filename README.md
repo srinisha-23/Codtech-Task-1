@@ -31,3 +31,14 @@ Key Insights:
 Conclusion:
 
 This project provided valuable insights into the Titanic dataset and highlighted the importance of EDA in understanding and preparing data for further analysis. The visualizations and statistical summaries helped identify key patterns and relationships that are crucial for building predictive models.
+
+Output:
+<img width="754" height="796" alt="image" src="https://github.com/user-attachments/assets/e0270826-b56e-4798-9bd4-be3482b0cdc4" />
+<img width="715" height="851" alt="image" src="https://github.com/user-attachments/assets/8c1edeca-9c3a-4320-b25d-f7c36da2464c" />
+<img width="956" height="586" alt="image" src="https://github.com/user-attachments/assets/3ceb905d-0247-4779-8574-2b02b56c9c7a" />
+<img width="544" height="624" alt="image" src="https://github.com/user-attachments/assets/647d57ad-60c2-479f-9550-3d90def7eb76" />
+<img width="763" height="756" alt="image" src="https://github.com/user-attachments/assets/d867ef26-2f72-4666-a537-03dbc62997de" />
+
+
+
+
